@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/reliable-ml-from-unreliable-black-boxes-spring26/static/css/main.f855e6bc.css",
-    "main.js": "/reliable-ml-from-unreliable-black-boxes-spring26/static/js/main.85b5d969.js",
-    "static/js/453.e71a7064.chunk.js": "/reliable-ml-from-unreliable-black-boxes-spring26/static/js/453.e71a7064.chunk.js",
-    "static/media/logo.svg": "/reliable-ml-from-unreliable-black-boxes-spring26/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/reliable-ml-from-unreliable-black-boxes-spring26/index.html",
-    "main.f855e6bc.css.map": "/reliable-ml-from-unreliable-black-boxes-spring26/static/css/main.f855e6bc.css.map",
-    "main.85b5d969.js.map": "/reliable-ml-from-unreliable-black-boxes-spring26/static/js/main.85b5d969.js.map",
-    "453.e71a7064.chunk.js.map": "/reliable-ml-from-unreliable-black-boxes-spring26/static/js/453.e71a7064.chunk.js.map"
+    "main.css": "/reliable-ml-with-unreliable-black-boxes-spring26/static/css/main.bc7d4782.css",
+    "main.js": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/main.8eb94040.js",
+    "static/js/453.bba465a5.chunk.js": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/453.bba465a5.chunk.js",
+    "static/media/lecture4-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture4-scribe.f95aebc0702e8f774184.pdf",
+    "static/media/lecture5-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture5-scribe.25f07016f1de10a3b961.pdf",
+    "static/media/lecture2-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture2-scribe.bfc15cebbf6adce06274.pdf",
+    "static/media/lecture1-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture1-scribe.65a33634ded8d1e97d78.pdf",
+    "static/media/scribe-notes-template.tex": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/scribe-notes-template.02ffc5d799e14754d918.tex",
+    "index.html": "/reliable-ml-with-unreliable-black-boxes-spring26/index.html",
+    "main.bc7d4782.css.map": "/reliable-ml-with-unreliable-black-boxes-spring26/static/css/main.bc7d4782.css.map",
+    "main.8eb94040.js.map": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/main.8eb94040.js.map",
+    "453.bba465a5.chunk.js.map": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/453.bba465a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.85b5d969.js"
+    "static/css/main.bc7d4782.css",
+    "static/js/main.8eb94040.js"
   ]
 }
