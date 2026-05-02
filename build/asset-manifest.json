@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/reliable-ml-with-unreliable-black-boxes-spring26/static/css/main.bc7d4782.css",
-    "main.js": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/main.11aca139.js",
+    "main.js": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/main.9b895536.js",
     "static/js/453.788e3997.chunk.js": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/453.788e3997.chunk.js",
     "static/media/lecture4-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture4-scribe.f95aebc0702e8f774184.pdf",
-    "static/media/lecture5-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture5-scribe.25f07016f1de10a3b961.pdf",
+    "static/media/lecture5-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture5-scribe.286297d3d6d6bf586433.pdf",
     "static/media/lecture2-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture2-scribe.bfc15cebbf6adce06274.pdf",
     "static/media/lecture1-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture1-scribe.65a33634ded8d1e97d78.pdf",
     "static/media/scribe-notes-template.tex": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/scribe-notes-template.02ffc5d799e14754d918.tex",
     "index.html": "/reliable-ml-with-unreliable-black-boxes-spring26/index.html",
     "main.bc7d4782.css.map": "/reliable-ml-with-unreliable-black-boxes-spring26/static/css/main.bc7d4782.css.map",
-    "main.11aca139.js.map": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/main.11aca139.js.map",
+    "main.9b895536.js.map": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/main.9b895536.js.map",
     "453.788e3997.chunk.js.map": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/453.788e3997.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc7d4782.css",
-    "static/js/main.11aca139.js"
+    "static/js/main.9b895536.js"
   ]
 }

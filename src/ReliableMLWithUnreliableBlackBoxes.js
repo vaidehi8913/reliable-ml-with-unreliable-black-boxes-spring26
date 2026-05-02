@@ -6,6 +6,7 @@ import scribe1 from "./files/lecture1-scribe.pdf";
 import scribe2 from "./files/lecture2-scribe.pdf";
 import scribe4 from "./files/lecture4-scribe.pdf";
 import scribe5 from "./files/lecture5-scribe.pdf";
+import scribe7 from "./files/lecture7-scribe.pdf";
 
 class ReliableMLWithUnreliableBlackBoxes extends Component {
 
@@ -138,9 +139,9 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                             </ul>
                         </td>
                         <td>
+                            <p><a href={scribe7}>[Scribe notes, thanks Huaman Sun!]</a></p>
                             <p><span className="due">Due:</span> read <a href="https://arxiv.org/abs/2502.02561">[KPRH25]</a> in 
                             prep for discussion</p>
-                            <p><span className="scribe">Scribe:</span> Huaman Sun</p>
                         </td>
                     </tr>
 
@@ -445,7 +446,7 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                     <p><u>Causal Inference and Robustness</u></p>
                     <ul>
                         <li><a href="https://simons.berkeley.edu/workshops/domain-adaptation-related-areas/schedule#simons-tabs">Simons 
-                        workshop on domian adaptation</a></li>
+                        workshop on domain adaptation</a></li>
                         <li><a href="https://arxiv.org/abs/1904.06019">[TBCR20]</a> Conformal prediction under covariate shift</li>
                     </ul>
 
