@@ -177,11 +177,12 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                             (Student Presentations) <b>Algorithms with Predictions and UQ Day 3</b>
                             <ul>
                                 <li>Xingchen Sha on <a href="https://arxiv.org/abs/2503.07453">[FMR25]</a> Reinforcement learning with a good base model</li>
-                                <li>Class discussion (paper to be announced)</li>
+                                <li>Class discussion on <a href="https://arxiv.org/abs/2011.14999">[BGM23]</a> "An Authomatic Finite-Sample Robustness Metric"</li>
                             </ul>
                         </td>
                         <td>
-                            <p><span className="due">Due:</span> reading to be announced</p>
+                            <p><span className="due">Due:</span> read <a href="https://arxiv.org/abs/2011.14999">[BGM23]</a> in 
+                            prep for discussion</p>
                             <p><span className="scribe">Scribe:</span> Monish Vijayakumar (presentation), Prakeerth Prasad (discussion)</p>
                         </td>
                     </tr>
@@ -193,11 +194,13 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                             <ul>
                                 <li>Dionysis Arvanitakis on <a href="https://arxiv.org/abs/2312.07535">[ACNSV23]</a> frequency
                                 estimation in streams, with predictions</li>
-                                <li>Class discussion (paper to be announced)</li>
+                                <li>Class discussion on <a href="https://arxiv.org/abs/2402.18263">[COGLP24]</a> Max-Cut with predictions</li>
                             </ul>
                         </td>
                         <td>
-                            <p><span className="due">Due:</span> reading to be announced</p>
+                            <p><span className="due">Due:</span> read <a href="https://arxiv.org/abs/2402.18263">[COGLP24]</a> in 
+                            prep for discussion (see also <a href="https://arxiv.org/abs/2403.02212">[GMM24]</a> if 
+                            you are interested, but we don't expect you to read both)</p>
                             <p><span className="scribe">Scribe:</span> Andre Shportko</p>
                         </td>
                     </tr>
