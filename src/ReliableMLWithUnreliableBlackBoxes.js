@@ -7,6 +7,7 @@ import scribe2 from "./files/lecture2-scribe.pdf";
 import scribe4 from "./files/lecture4-scribe.pdf";
 import scribe5 from "./files/lecture5-scribe.pdf";
 import scribe7 from "./files/lecture7-scribe.pdf";
+import scribe9 from "./files/lecture9-scribe.pdf";
 
 class ReliableMLWithUnreliableBlackBoxes extends Component {
 
@@ -168,7 +169,7 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                                 <li>Optimistic online learning</li>
                             </ul>
                         </td>
-                        <td><span className="scribe">Scribe:</span> Aryaman Chawla</td>
+                        <td><a href={scribe9}>[Scribe notes, thanks Aryaman Chawla!]</a></td>
                     </tr>
 
                     <tr key="10">
