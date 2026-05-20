@@ -11,6 +11,7 @@ import scribe7 from "./files/lecture7-scribe.pdf";
 import scribe8 from "./files/lecture8-scribe.pdf";
 import scribe9 from "./files/lecture9-scribe.pdf";
 import scribe11 from "./files/lecture11-scribe.pdf";
+import scribe12 from "./files/lecture12-scribe.pdf";
 import scribe13 from "./files/lecture13-scribe.pdf";
 
 class ReliableMLWithUnreliableBlackBoxes extends Component {
@@ -224,8 +225,8 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                             </ul>
                         </td>
                         <td>
+                            <p><a href={scribe12}>[Scribe notes, thanks Yunai Li!]</a></p>
                             <p><span className="due">Due:</span> project proposals</p>
-                            <p><span className="scribe">Scribe:</span> Yunai Li</p>
                         </td>
                     </tr>
 
@@ -254,7 +255,14 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                                 robust optimization</li>
                                 <li>Huaman Sun on <a href="https://arxiv.org/abs/2007.05145">[GKKM20]</a> Prediction with abstentions</li>
                             </ul> */}
-
+                            <ul>
+                                <li>Recap and entropic optimal transport</li>
+                                <li>Causal inference and treatment effects</li>
+                                <li>Issues when treated distribution is not the same as full distribution</li>
+                                <li>Regression adjustment</li>
+                                <li>Inverse propensity weighting (IPW)</li>
+                                <li>Doubly robust estimator (AIPW)</li>
+                            </ul>
                         </td>
                         <td>
                             <p><span className="due">(Scribe change)</span></p>
