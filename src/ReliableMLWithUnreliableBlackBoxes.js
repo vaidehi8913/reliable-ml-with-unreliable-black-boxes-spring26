@@ -13,6 +13,7 @@ import scribe9 from "./files/lecture9-scribe.pdf";
 import scribe11 from "./files/lecture11-scribe.pdf";
 import scribe12 from "./files/lecture12-scribe.pdf";
 import scribe13 from "./files/lecture13-scribe.pdf";
+import scribe14 from "./files/lecture14-scribe.pdf";
 
 class ReliableMLWithUnreliableBlackBoxes extends Component {
 
@@ -265,8 +266,9 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                             </ul>
                         </td>
                         <td>
+                            <a href={scribe14}>[Scribe notes, thanks April Shi!]</a>
                             <p><span className="due">(Scribe change)</span></p>
-                            <p><span className="scribe">Scribe:</span> April Shi</p>
+                            {/* <p><span className="scribe">Scribe:</span> April Shi</p> */}
                         </td>
                     </tr>
 
