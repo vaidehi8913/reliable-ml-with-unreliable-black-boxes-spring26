@@ -14,6 +14,7 @@ import scribe11 from "./files/lecture11-scribe.pdf";
 import scribe12 from "./files/lecture12-scribe.pdf";
 import scribe13 from "./files/lecture13-scribe.pdf";
 import scribe14 from "./files/lecture14-scribe.pdf";
+import scribe16 from "./files/lecture16-scribe.pdf";
 
 class ReliableMLWithUnreliableBlackBoxes extends Component {
 
@@ -289,8 +290,17 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
 
                     <tr key="16">
                         <td>(16) Tue, May 26</td>
-                        <td>(Lecture) <b>Calibration</b></td>
-                        <td><p><span className="scribe">Scribe:</span> Mateusz Gabrys</p></td>
+                        <td>
+                            (Lecture) <b>Calibration</b>
+                            <ul>
+                                <li>Calibration definition</li>
+                                <li>Motivation</li>
+                                <li>Measuring calibration error</li>
+                                <li>Connection to swap regret</li>
+                                <li>Online minimization of swap regret</li>
+                            </ul>
+                        </td>
+                        <td><p><a href={scribe16}>[Scribe notes, thanks Mateusz Gabrys!]</a></p></td>
                     </tr>
 
                     <tr key="17">
