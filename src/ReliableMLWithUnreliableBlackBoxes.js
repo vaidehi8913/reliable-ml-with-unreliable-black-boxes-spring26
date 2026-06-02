@@ -14,6 +14,8 @@ import scribe11 from "./files/lecture11-scribe.pdf";
 import scribe12 from "./files/lecture12-scribe.pdf";
 import scribe13 from "./files/lecture13-scribe.pdf";
 import scribe14 from "./files/lecture14-scribe.pdf";
+import scribe15p1 from "./files/lecture15-part1-scribe.pdf";
+import scribe15p2 from "./files/lecture15-part2-scribe.pdf";
 import scribe16 from "./files/lecture16-scribe.pdf";
 
 class ReliableMLWithUnreliableBlackBoxes extends Component {
@@ -191,7 +193,7 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                         <td>
                             <p><span className="due">Due:</span> read <a href="https://arxiv.org/abs/2011.14999">[BGM23]</a> in 
                             prep for discussion</p>
-                            <p><span className="scribe">Scribe:</span> Monish Vijayakumar (presentation), Prakeerth Prasad (discussion)</p>
+                            <p><span className="scribe">Scribe:</span> no scribe</p>
                         </td>
                     </tr>
 
@@ -285,7 +287,11 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                                 reweighting and discrepancy minimization</li>
                             </ul>
                         </td>
-                        <td><p><span className="scribe">Scribe:</span> Baenan McKeown (presentation 1), Noah Schulhof (presentation 2)</p></td>
+                        <td>
+                            <p><a href={scribe15p1}>[Scribe notes, thanks Baenan McKeown!]</a></p>
+                            <p><a href={scribe15p2}>[Scribe notes, thanks Noah Schulhof!]</a></p>
+                            {/* <p><span className="scribe">Scribe:</span> Baenan McKeown (presentation 1), Noah Schulhof (presentation 2)</p> */}
+                        </td>
                     </tr>
 
                     <tr key="16">
@@ -471,6 +477,12 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                         tangential direction, the project track may be better.  </p>
                     </div>
 
+                    <h4>Mini-project</h4>
+
+                    <p>(One page) Clearly articulate a research question/problem. Explain how it relates to the topic of ensuring 
+                        reliability with black-box models. If you are building on prior work and/or topics in we saw in 
+                        the course, cite them.</p>
+
 
 
                     <h3>Track 2: Project</h3>
@@ -527,6 +539,19 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                     </ul>
 
                     </div>
+
+                    <h4>Project Presentation</h4>
+
+                    <p>Thursday, June 4 in class. 5 minutes per project group, slides only please (we won't have enough time 
+                        for board talks.) 5 minutes 
+                        is very short! We would like you to clearly phrase your research problem. You will likely not have 
+                        time to present the solution/your work in progress. You want to leave the audience intrigued and 
+                        wanting more, rather than overwhelmed.</p>
+
+                    <h4>Project Writeup</h4>
+
+                    <p>(3 pages) This is where you tell us about the larger motivation for your problem, overview previous work, 
+                        state the problem again clearly, and outline what steps you have taken to address the problem.</p>
 
 
                 </div>
