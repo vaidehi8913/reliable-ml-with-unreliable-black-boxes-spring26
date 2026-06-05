@@ -350,7 +350,7 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                     </tr>
 
                     <tr key="20">
-                        <td>Thu, Jun 9</td>
+                        <td>Thu, Jun 11</td>
                         <td>(Finals week, no class)</td>
                         <td><p><span className="due">Due:</span> Project/presentation writeups</p></td>
                     </tr>
