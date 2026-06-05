@@ -14,9 +14,13 @@ import scribe11 from "./files/lecture11-scribe.pdf";
 import scribe12 from "./files/lecture12-scribe.pdf";
 import scribe13 from "./files/lecture13-scribe.pdf";
 import scribe14 from "./files/lecture14-scribe.pdf";
-import scribe15p1 from "./files/lecture15-part1-scribe.pdf";
-import scribe15p2 from "./files/lecture15-part2-scribe.pdf";
+import scribe15p1 from "./files/lecture15p1-scribe.pdf";
+import scribe15p2 from "./files/lecture15p2-scribe.pdf";
 import scribe16 from "./files/lecture16-scribe.pdf";
+import scribe17p1 from "./files/lecture17p1-scribe.pdf";
+import scribe17p2 from "./files/lecture17p2-scribe.pdf";
+
+import scribe18p2 from "./files/lecture18p2-scribe.pdf";
 
 class ReliableMLWithUnreliableBlackBoxes extends Component {
 
@@ -319,8 +323,8 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                             </ul>
                         </td>
                         <td>
-                            <p><span className="due">(Scribe change)</span></p>
-                            <p><span className="scribe">Scribe:</span> Nathan Reimer (presentation), Yu He (lecture)</p>
+                            <p><a href={scribe17p1}>[Scribe notes part 1, thanks Nathan Reimer!]</a></p>
+                            <p><a href={scribe17p2}>[Scribe notes part 2, thanks Yu He!]</a></p>
                         </td>
                     </tr>
 
@@ -333,7 +337,10 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
                                 <li>Mateusz Gabrys on <a href="https://arxiv.org/abs/2306.09194">[CGZ23]</a> Undetectable watermarks for large language models</li>
                             </ul>
                         </td>
-                        <td><p><span className="scribe">Scribe:</span> Sarnabh Mukhopadhyay (presentation 1), Matthew Khoriaty (presentation 2)</p></td>
+                        <td>
+                            <p><a href={scribe18p2}>[Scribe notes part 2, thanks Matthew Khoriaty!]</a></p>
+                            <p><span className="scribe">Scribe:</span> Sarnabh Mukhopadhyay (presentation 1), Matthew Khoriaty (presentation 2)</p>
+                        </td>
                     </tr>
 
                     <tr key="19">

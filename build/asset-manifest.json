@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/reliable-ml-with-unreliable-black-boxes-spring26/static/css/main.bc7d4782.css",
-    "main.js": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/main.a58f31d4.js",
+    "main.js": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/main.bb318a24.js",
     "static/js/453.788e3997.chunk.js": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/453.788e3997.chunk.js",
     "static/media/lecture12-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture12-scribe.56553e46a8ccbfe91e9b.pdf",
+    "static/media/lecture15-part2-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture15-part2-scribe.e54fa909651ae40c1d81.pdf",
     "static/media/lecture4-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture4-scribe.f95aebc0702e8f774184.pdf",
     "static/media/lecture5-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture5-scribe.286297d3d6d6bf586433.pdf",
     "static/media/lecture9-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture9-scribe.d64cd1078573b754e08d.pdf",
@@ -15,15 +16,16 @@
     "static/media/lecture2-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture2-scribe.bfc15cebbf6adce06274.pdf",
     "static/media/lecture16-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture16-scribe.e856ad8937ce7e0e2b66.pdf",
     "static/media/lecture1-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture1-scribe.785b40256624bb6c3436.pdf",
+    "static/media/lecture15-part1-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture15-part1-scribe.e700b3e40eeda2be1da0.pdf",
     "static/media/lecture6-scribe.pdf": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/lecture6-scribe.d30b6d34490d573ab645.pdf",
     "static/media/scribe-notes-template.tex": "/reliable-ml-with-unreliable-black-boxes-spring26/static/media/scribe-notes-template.02ffc5d799e14754d918.tex",
     "index.html": "/reliable-ml-with-unreliable-black-boxes-spring26/index.html",
     "main.bc7d4782.css.map": "/reliable-ml-with-unreliable-black-boxes-spring26/static/css/main.bc7d4782.css.map",
-    "main.a58f31d4.js.map": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/main.a58f31d4.js.map",
+    "main.bb318a24.js.map": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/main.bb318a24.js.map",
     "453.788e3997.chunk.js.map": "/reliable-ml-with-unreliable-black-boxes-spring26/static/js/453.788e3997.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc7d4782.css",
-    "static/js/main.a58f31d4.js"
+    "static/js/main.bb318a24.js"
   ]
 }
