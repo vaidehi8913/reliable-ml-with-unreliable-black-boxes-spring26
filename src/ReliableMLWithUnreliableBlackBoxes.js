@@ -404,6 +404,9 @@ class ReliableMLWithUnreliableBlackBoxes extends Component {
 
                     <h2>Schedule</h2>
 
+                    <p><span className="due">Disclaimer:</span> the linked scribe notes have not yet been carefully 
+                    vetted, and may contain errors.</p>
+
                     {courseSchedule}
                 </div>
 
